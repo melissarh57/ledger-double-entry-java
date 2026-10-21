@@ -25,3 +25,6 @@ replay_pid*
 
 # Intellij
 .idea/
+
+# Env Vars
+.env
